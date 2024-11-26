@@ -7,8 +7,7 @@ Web Developer...
 👋 Hi there! I'm Sujan, a dedicated front-end developer with a love for design and a talent for building smooth and engaging user experiences. I focus on turning creative ideas into responsive, attractive, and functional web applications that work well on any device.
 
 * 🌍  I'm based in Pokhara, Nepal
-* ✉️  You can contact me at [budhasujan3@gmail.com](mailto:budhasujan3@gmail.com)
-* 🚀  I'm currently working on [MERN stack](http://frontend-14em6n0k8-sujans-projects-82c9a4fd.vercel.app/)
+* ✉️  Contact me at [budhasujan3@gmail.com](mailto:budhasujan3@gmail.com)
 * My Portfolio [https://my-portfolio-59aj84bnc-sujans-projects-82c9a4fd.vercel.app/]
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Any frontend Projects
