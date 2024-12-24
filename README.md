@@ -9,7 +9,7 @@ Web Developer...
 * 🌍  I'm based in Pokhara, Nepal
 * ✉️  Contact me at [budhasujan3@gmail.com](mailto:budhasujan3@gmail.com)
 * My Portfolio [https://my-portfolio-59aj84bnc-sujans-projects-82c9a4fd.vercel.app/]
-* 🧠  I'm learning React JS
+* 🧠  I'm learning new languages...
 * 🤝  I'm open to collaborating on Any frontend Projects
 
 <a href="https://www.github.com/Sujan680" target="_blank" rel="noreferrer"><img
